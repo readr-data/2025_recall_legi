@@ -1,7 +1,7 @@
-此為 READr 罷免相關專題報導的問卷調查資料。報導共分為三篇：
-（上）：https://www.readr.tw/post/3032
-（中）：https://www.readr.tw/post/3033
-（下）：https://www.readr.tw/post/3036
+此為 READr 罷免相關專題報導的問卷調查資料。報導共分為三篇： <br>
+（上）：https://www.readr.tw/post/3032 <br>
+（中）：https://www.readr.tw/post/3033 <br>
+（下）：https://www.readr.tw/post/3036 <br>
 
 READr 參考各罷免團體提出的理由書，設計了一份調查（完整問卷），在包括 Facebook 政治性社團（如：民眾講堂-全民參與共榮平台、2024倒綠救台大聯盟、台灣選舉與政治時事討論社等）、Dcard 時事版、學校社團等社群平臺張貼問卷連結。
 
